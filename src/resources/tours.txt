@@ -1,0 +1,7 @@
+Ruta Gastronomica;Gastronomico;25000
+Paseo Lacustre;Aventura;15000
+Excursion Cultural;Cultural;12000
+Tour Personalizado;Privado;45000
+Ruta de los Volcanes;Aventura;30000
+Navegacion por el Lago;Aventura;18000
+Experiencia de Sabores;Gastronomico;22000
